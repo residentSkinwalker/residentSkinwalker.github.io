@@ -1,2 +1,2 @@
-__Personal resume website. Made using the [toha](https://themes.gohugo.io/themes/toha/) theme for [hugo](https://gohugo.io/).__
-> __Full credit goes to [Emruz Hossain](https://hossainemruz.github.io/) for making this excellent hugo theme.__
+__Personal resume website. Made using the [toha](https://github.com/hugo-toha/toha) theme for [hugo](https://gohugo.io/).__
+> __Full credit goes to [Emruz Hossain](https://github.com/hossainemruz) and those who contribute to the toha repo__
